@@ -5,7 +5,7 @@
 - Lớp (L2 / L3 / khác): K5-L23
 - Tài khoản GitHub: viettien161204
 - Repo bài nộp (URL): [[https://github.com/hathienphu218/K5-L23-Day08-03140-NguyenVietTien-AI-Assisted-Labeling](https://github.com/viettien161204/K5-L23-Day08-03140-NguyenVietTien-AI-Assisted-Labeling.git)](https://github.com/viettien161204/K5-L23-Day08-03140-NguyenVietTien-AI-Assisted-Labeling.git)
-- Commit chốt bài (hash): chốt hoàn thiện Part 6
+- Commit chốt bài (hash): chốt hoàn thiện Part 6 : 97f4d7da0395b18f1e924de75edc1a4b4dbac52f
 - Máy: Windows 11 64-bit, CPU
 - CVAT (Docker): v2.81.0
 
