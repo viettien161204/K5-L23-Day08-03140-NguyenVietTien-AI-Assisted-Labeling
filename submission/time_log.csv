@@ -1,5 +1,3 @@
 step,images,minutes,note
-1,img_001,6,0
-2,img_012,4,0
-3,img_020,7,0
-4,img_036,6,0
+gold_manual,4,23,"gán tay 4 ảnh gold (img_001: 6', img_012: 4', img_020: 7', img_036: 6')"
+batch_review,24,72,"duyệt lô 24 ảnh batch có pre-label và bẫy (~3 phút/ảnh)"

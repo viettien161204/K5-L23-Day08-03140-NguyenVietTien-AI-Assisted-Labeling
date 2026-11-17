@@ -1,0 +1,9 @@
+image,object_id,error_type,reviewer,note
+img_003.jpg,,khong,03140,29 đối tượng đạt chuẩn (person và xe cộ rõ ràng)
+img_005.jpg,,khong,03140,46 đối tượng đạt chuẩn sau khi đã gộp cụm xe máy xa bằng ignore_region
+img_008.jpg,,khong,03140,16 đối tượng đạt chuẩn không phát hiện sót hay lệch biên
+img_014.jpg,,khong,03140,23 đối tượng đạt chuẩn các box xe ba bánh đã bóc tách người lái
+img_017.jpg,,khong,03140,5 đối tượng đạt chuẩn tuk-tuk ôm sát viền
+img_018.jpg,,khong,03140,63 đối tượng đạt chuẩn đã kiểm tra kỹ các xe máy cự ly gần
+img_022.jpg,,khong,03140,21 đối tượng đạt chuẩn các ca che khuất đã gán theo quy tắc 20%
+img_035.jpg,,khong,03140,39 đối tượng đạt chuẩn đã sửa bẫy wrong_class
